@@ -1,0 +1,9 @@
+packages/
+ADODemo/bin/
+ADODemo/obj/
+DbFirstDemo/bin/
+DbFirstDemo/obj/
+EFDemo/bin/
+EFDemo/obj/
+EFDemo_CodeBasedMigrations/bin/
+EFDemo_CodeBasedMigrations/obj/
